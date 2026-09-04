@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+xgboost>=1.5
+dask[complete]
+distributed
+joblib
+matplotlib
+seaborn
+shap
+lasio
