@@ -9,3 +9,4 @@ matplotlib
 seaborn
 shap
 lasio
+tensorflow>=2.10
